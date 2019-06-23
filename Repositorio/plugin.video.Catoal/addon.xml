@@ -21,8 +21,8 @@
   <extension point="xbmc.python.pluginsource" library="default.py">
     <provides>video</provides>
   </extension>
-
-  <extension point="xbmc.addon.repository" name="mascararepo">
+  
+      <extension point="xbmc.addon.repository" name="mascararepo">
         <info>https://raw.githubusercontent.com/jhonata192/mascararepo/blob/master/Repositorio/addons.xml</info>
         <checksum>https://raw.githubusercontent.com/jhonata192/mascararepo/blob/master/Repositorio/addons.xml.md5</checksum>
         <datadir zip="true">https://raw.githubusercontent.com/jhonata192/mascararepo/blob/master/Repositorio/</datadir>
